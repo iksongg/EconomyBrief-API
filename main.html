@@ -157,6 +157,11 @@
     flex-direction: column;
     gap: 16px;
     cursor: pointer;
+    text-decoration: none;
+  }
+  .news-highlight, .news-highlight:visited, .news-highlight:hover,
+  .news-list .item, .news-list .item:visited, .news-list .item:hover {
+    text-decoration: none;
   }
   .news-list .item, .trend-card { cursor: pointer; }
   .news-highlight .headline {
@@ -197,7 +202,6 @@
     opacity: 1;
     overflow: hidden;
     transition: max-height 0.35s ease, opacity 0.3s ease, padding 0.35s ease, border-color 0.35s ease;
-    text-decoration: none;
   }
   .news-list .item:first-child { padding-top: 0; }
   .news-list .item:last-child { border-bottom: none; padding-bottom: 0; }
@@ -586,19 +590,30 @@
   });
 
   var highlightRow = document.getElementById('news-highlight-row');
-  var highlightDots = document.querySelectorAll('#highlight-dots img');
-  var highlightCards = highlightRow.querySelectorAll('.news-highlight');
-  var highlightRealCount = highlightDots.length;
-  var activeDotIndex = 0;
+  // 목업 상태로 캡처됐다가 news-feed.js가 실제 데이터로 #news-highlight-row/#highlight-dots의
+  // innerHTML을 통째로 교체하면 요소 참조가 끊긴다 — 그래서 dots/cards/count를 한 객체에 담아
+  // window.EB_refreshHighlightCarousel()로 다시 읽어올 수 있게 했다(리스너는 한 번만 등록).
+  var highlightState = { dots: [], cards: [], realCount: 0, activeIndex: 0 };
+  function refreshHighlightCarousel() {
+    highlightState.dots = Array.prototype.slice.call(document.querySelectorAll('#highlight-dots img'));
+    highlightState.cards = Array.prototype.slice.call(highlightRow.querySelectorAll('.news-highlight'));
+    highlightState.realCount = highlightState.dots.length;
+    highlightState.activeIndex = 0;
+    highlightRow.scrollLeft = 0;
+  }
+  refreshHighlightCarousel();
+  window.EB_refreshHighlightCarousel = refreshHighlightCarousel;
+
   var highlightSettleTimer = null;
   highlightRow.addEventListener('scroll', function () {
-    var cardWidth = highlightCards[0].offsetWidth + 12;
+    if (!highlightState.cards.length || !highlightState.realCount) return;
+    var cardWidth = highlightState.cards[0].offsetWidth + 12;
     var rawIndex = Math.round(highlightRow.scrollLeft / cardWidth);
-    var dotIndex = rawIndex % highlightRealCount;
-    if (dotIndex !== activeDotIndex) {
-      activeDotIndex = dotIndex;
-      highlightDots.forEach(function (dot, i) {
-        dot.src = window.EB_ICONS.iconSrc(i === activeDotIndex ? 'dot-active' : 'dot-inactive');
+    var dotIndex = rawIndex % highlightState.realCount;
+    if (dotIndex !== highlightState.activeIndex) {
+      highlightState.activeIndex = dotIndex;
+      highlightState.dots.forEach(function (dot, i) {
+        dot.src = window.EB_ICONS.iconSrc(i === highlightState.activeIndex ? 'dot-active' : 'dot-inactive');
       });
     }
     // Once the swipe settles on the cloned first card (past the last real one),
@@ -606,7 +621,7 @@
     clearTimeout(highlightSettleTimer);
     highlightSettleTimer = setTimeout(function () {
       var settledIndex = Math.round(highlightRow.scrollLeft / cardWidth);
-      if (settledIndex >= highlightRealCount) highlightRow.scrollLeft = 0;
+      if (settledIndex >= highlightState.realCount) highlightRow.scrollLeft = 0;
     }, 120);
   });
 

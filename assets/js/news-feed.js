@@ -118,6 +118,48 @@
     }
   }
 
+  function renderHighlightCard(article, isClone) {
+    var headline = escapeHtml(article.title);
+    var body = escapeHtml(article.description);
+    var tag = escapeHtml(article.categoryLabel || article.category || '');
+    return (
+      '<a class="news-highlight"' + (isClone ? ' data-loop-clone="true" aria-hidden="true"' : '') + ' ' +
+        'href="' + articleHref(article) + '">' +
+        '<div>' +
+          '<div class="headline">' + headline + '</div>' +
+          '<div class="body">' + body + '</div>' +
+          (tag ? '<div class="tags"><span>#' + tag + '</span></div>' : '') +
+        '</div>' +
+      '</a>'
+    );
+  }
+
+  // "오늘의 핵심 요약 뉴스" — 실제 API 응답에는 중요도/인기 점수 같은 필드가 없어서(뉴스 API
+  // 자체의 title/description/category만 존재), 새 AI 호출 없이 title+description이 모두 있는
+  // 가장 최근 기사 중 앞쪽 몇 개를 그대로 쓴다. .timeline-list/.news-list와 같은 정렬된
+  // articles 배열을 그대로 재사용하므로 데이터 흐름이 따로 놀지 않는다.
+  function mountHighlights(articles) {
+    var row = document.getElementById('news-highlight-row');
+    var dotsWrap = document.getElementById('highlight-dots');
+    if (!row || !dotsWrap) return;
+    var items = articles
+      .filter(function (a) { return a.title && a.description; })
+      .slice(0, 4);
+    if (items.length < 3) return; // 데이터가 너무 적으면 기존 목업 유지
+
+    row.innerHTML =
+      items.map(function (a) { return renderHighlightCard(a, false); }).join('') +
+      renderHighlightCard(items[0], true); // 첫 카드 클론 — 기존 무한 루프 스와이프 유지
+
+    dotsWrap.innerHTML = items
+      .map(function (_, i) {
+        return '<img src="' + window.EB_ICONS.iconSrc(i === 0 ? 'dot-active' : 'dot-inactive') + '" alt="" data-index="' + i + '" />';
+      })
+      .join('');
+
+    if (window.EB_refreshHighlightCarousel) window.EB_refreshHighlightCarousel();
+  }
+
   function init() {
     fetch('data/news.json', { cache: 'no-store' })
       .then(function (res) {
@@ -126,6 +168,7 @@
       })
       .then(function (data) {
         if (!data || !Array.isArray(data.articles) || !data.articles.length) return;
+        mountHighlights(data.articles);
         mountTimeline(data.articles);
         mountNewsList(data.articles);
       })
