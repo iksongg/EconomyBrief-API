@@ -137,23 +137,33 @@
     <div data-eb="nav-header" data-back="main.html" data-right="share" data-short="true"></div>
 
     <div class="article-header">
-      <div class="title">AI 데이터 투자 확대, 국내 반도체 수혜 기대</div>
+      <div class="title" id="article-title">AI 데이터 투자 확대, 국내 반도체 수혜 기대</div>
       <div class="meta">
-        <span>2025.04.11</span>
+        <span id="article-date">2025.04.11</span>
         <span>·</span>
-        <span class="source"><img src="assets/img/article-kbs-logo.png" alt="" />KBS뉴스</span>
+        <span class="source"><img id="article-source-logo" src="assets/img/article-kbs-logo.png" alt="" /><span id="article-source-name">KBS뉴스</span></span>
       </div>
     </div>
 
     <img class="hero-image" src="assets/img/article-hero.png" alt="" />
 
     <div class="content-padded" style="margin-top:20px;">
-      <div class="ai-summary-card">
+      <div class="ai-summary-card" id="ai-loading" style="display:none;">
         <div class="summary-head">
           <div class="icon-box">AI</div>
           <div class="summary-title">ai 핵심 요약</div>
         </div>
-        <ul>
+        <p style="font-weight:var(--font-weight-regular); font-size:14px; color:var(--color-text-tertiary);">AI가 뉴스를 분석하고 있어요…</p>
+      </div>
+
+      <p id="ai-error" style="display:none; font-weight:var(--font-weight-regular); font-size:14px; color:var(--color-status-error); background:#F6F7FB; border-radius:16px; padding:16px;"></p>
+
+      <div class="ai-summary-card" id="ai-summary-card">
+        <div class="summary-head">
+          <div class="icon-box">AI</div>
+          <div class="summary-title">ai 핵심 요약</div>
+        </div>
+        <ul id="ai-summary-list">
           <li>빅테크 기업들이 AI 데이터센터 투자를 하고 있습니다.</li>
           <li>AI 서버에 필요한 <button type="button" class="term" data-term="hbm">HBM</button> 수요가 증가하고 있습니다.</li>
           <li>반도체 기업들의 실적 개선 기대감도 높아지고 있습니다.</li>
@@ -161,7 +171,9 @@
         </ul>
       </div>
 
-      <div class="qna-block">
+      <p id="ai-disclaimer" style="display:none; font-weight:var(--font-weight-regular); font-size:11px; color:var(--color-text-tertiary); margin-top:-6px;">이 브리핑은 현재 제공된 기사 정보를 바탕으로 AI가 생성했습니다.</p>
+
+      <div class="qna-block" id="qna-block">
         <div class="qna-item">
           <div class="qna-q"><span class="gicon" role="img" aria-label="">check</span><span>무슨 일이 있었나요?</span></div>
           <p class="qna-a">글로벌 빅테크 기업들이 AI 서비스 확대를 위해 데이터센터 투자를 늘리고 있습니다. 이에 따라 AI 서버에 필요한 HBM 등 고성능 메모리 수요도 함께 증가하고 있습니다.</p>
@@ -186,7 +198,13 @@
 
       <div class="divider-line"></div>
 
-      <div class="hashtags"><span>#AI</span><span>#반도체</span><span>#HBM</span></div>
+      <div class="hashtags" id="hashtags"><span>#AI</span><span>#반도체</span><span>#HBM</span></div>
+
+      <div id="view-original-wrap" style="display:none;">
+        <a class="deep-research-btn" id="view-original-btn" href="#" target="_blank" rel="noopener" style="text-decoration:none;">
+          <span class="gicon" role="img" aria-label="">open_in_new</span>원문 보기
+        </a>
+      </div>
     </div>
 
     <div class="section-spacer"></div>
@@ -264,6 +282,7 @@
 
 <script src="assets/js/icons.js"></script>
 <script src="assets/js/common.js"></script>
+<script src="assets/js/article-ai.js"></script>
 <script>
   document.getElementById('deep-research-btn').addEventListener('click', function () {
     window.location.href = 'deep-research.html';

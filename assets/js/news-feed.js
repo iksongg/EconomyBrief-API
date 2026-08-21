@@ -25,13 +25,19 @@
     return (d.getMonth() + 1) + '월 ' + d.getDate() + '일';
   }
 
+  // 원문으로 바로 나가는 대신, 내부 AI 브리핑 화면(article.html)으로 보내고
+  // 원본 기사 URL은 쿼리 파라미터로 전달한다. 원문 자체는 article.html의 "원문 보기" 버튼에서 연다.
+  function articleHref(article) {
+    return 'article.html?link=' + encodeURIComponent(article.link);
+  }
+
   function renderTimelineCard(article, index) {
     var title = escapeHtml(article.title);
     var desc = escapeHtml(article.description);
     var tag = escapeHtml(article.categoryLabel || article.category || '');
     return (
       '<a class="timeline-card' + (index === 0 ? ' first' : '') + '" ' +
-        'href="' + escapeHtml(article.link) + '" target="_blank" rel="noopener">' +
+        'href="' + articleHref(article) + '">' +
         '<div class="tl-time">' + formatTime(article.pubDate) + '</div>' +
         '<div class="tl-body">' +
           '<div class="tl-text">' +
@@ -79,7 +85,7 @@
     var source = escapeHtml(article.source || '');
     return (
       '<a class="item' + (isMore ? ' more-item' : '') + '" ' +
-        'href="' + escapeHtml(article.link) + '" target="_blank" rel="noopener">' +
+        'href="' + articleHref(article) + '">' +
         '<div class="info">' +
           '<div>' +
             '<div class="title">' + title + '</div>' +
