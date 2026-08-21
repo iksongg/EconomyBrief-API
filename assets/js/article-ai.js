@@ -29,8 +29,6 @@
   var disclaimerEl = $('ai-disclaimer');
   var qnaBlock = $('qna-block');
   var hashtagsEl = $('hashtags');
-  var viewOriginalWrap = $('view-original-wrap');
-  var viewOriginalBtn = $('view-original-btn');
 
   function escapeHtml(str) {
     return String(str).replace(/[&<>"']/g, function (c) {
@@ -43,10 +41,6 @@
     if (isNaN(d)) return '';
     return d.getFullYear() + '.' + String(d.getMonth() + 1).padStart(2, '0') + '.' + String(d.getDate()).padStart(2, '0');
   }
-
-  // 원문 보기 버튼은 AI 응답과 무관하게, 링크가 확인되는 즉시 항상 사용 가능하게 켜둔다.
-  viewOriginalBtn.href = link;
-  viewOriginalWrap.style.display = '';
 
   function renderHeader(article) {
     if (titleEl) titleEl.textContent = article.title;
