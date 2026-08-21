@@ -74,7 +74,7 @@ async function callGemini(article) {
   }
 
   const controller = new AbortController();
-  const timeout = setTimeout(function () { controller.abort(); }, 15000);
+  const timeout = setTimeout(function () { controller.abort(); }, 25000);
 
   let res;
   try {
