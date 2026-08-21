@@ -12,7 +12,7 @@
     ALLOWED_ORIGIN   (선택) CORS 허용 origin. 미설정 시 모든 origin 허용("*")
 */
 
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
 const GEMINI_ENDPOINT =
   'https://generativelanguage.googleapis.com/v1beta/models/' + GEMINI_MODEL + ':generateContent';
 
