@@ -9,7 +9,7 @@
 */
 (function () {
   // 배포 후 실제 Vercel 프로젝트 주소로 교체해야 한다. (예: https://economybrief-ai-api.vercel.app)
-  var AI_API_BASE = 'https://REPLACE-WITH-YOUR-VERCEL-PROJECT.vercel.app';
+  var AI_API_BASE = 'https://economy-brief-api.vercel.app';
   var CACHE_PREFIX = 'eb-ai-briefing-v1:';
 
   var params = new URLSearchParams(window.location.search);
