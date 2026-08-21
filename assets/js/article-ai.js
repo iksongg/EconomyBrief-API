@@ -29,6 +29,11 @@
   var disclaimerEl = $('ai-disclaimer');
   var qnaBlock = $('qna-block');
   var hashtagsEl = $('hashtags');
+  var deepResearchBtn = $('deep-research-btn');
+
+  // "AI 심층 분석" 버튼이 어떤 기사에 대해 분석을 요청해야 하는지 알 수 있도록,
+  // 실제 기사 모드일 때만 원문 링크를 data-link로 넘겨준다 (article.html의 인라인 스크립트가 읽음).
+  if (deepResearchBtn) deepResearchBtn.setAttribute('data-link', link);
 
   function escapeHtml(str) {
     return String(str).replace(/[&<>"']/g, function (c) {

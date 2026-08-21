@@ -192,7 +192,7 @@
         <div class="cta-banner"><span>토큰 3개를 이용</span><span class="dim">해서 더 유용한 기사를 보세요.</span></div>
         <img class="cta-pointer" src="assets/img/icons/cta-pointer-triangle.svg" alt="" />
         <button type="button" class="deep-research-btn" id="deep-research-btn">
-          <span class="gicon" role="img" aria-label="">search</span>딥 리서치
+          <span class="gicon" role="img" aria-label="">insights</span>AI 심층 분석
         </button>
       </div>
 
@@ -279,7 +279,14 @@
 <script src="assets/js/article-ai.js"></script>
 <script>
   document.getElementById('deep-research-btn').addEventListener('click', function () {
-    window.location.href = 'deep-research.html';
+    this.disabled = true;
+    // article-ai.js sets data-link on this button once the real article link is known;
+    // without it (e.g. static demo card, no ?link= param) deep-research.html shows a
+    // "select an article first" state instead of guessing.
+    var currentLink = this.getAttribute('data-link');
+    window.location.href = currentLink
+      ? 'deep-research.html?link=' + encodeURIComponent(currentLink)
+      : 'deep-research.html';
   });
   document.querySelectorAll('.news-item').forEach(function (el) {
     el.addEventListener('click', function () {
