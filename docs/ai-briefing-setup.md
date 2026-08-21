@@ -32,7 +32,7 @@ Vercel 프로젝트 → Settings → Environment Variables에서 등록합니다
 | 변수명 | 값 | 필수 |
 |---|---|---|
 | `GEMINI_API_KEY` | 발급받은 Gemini API 키 | 필수 |
-| `GEMINI_MODEL` | 예: `gemini-2.5-flash` (미설정 시 기본값 `gemini-2.5-flash` 사용) | 선택 |
+| `GEMINI_MODEL` | 예: `gemini-3.6-flash` (미설정 시 기본값 `gemini-3.6-flash` 사용) | 선택 |
 | `ALLOWED_ORIGIN` | 예: `https://<github-user>.github.io` (미설정 시 모든 origin 허용) | 선택(권장) |
 
 등록 후 "Deploy" 또는 "Redeploy"를 눌러 반영합니다.
