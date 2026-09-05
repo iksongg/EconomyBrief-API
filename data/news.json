@@ -1,24 +1,195 @@
 {
-  "generatedAt": "2026-09-05T12:11:29.726Z",
+  "generatedAt": "2026-09-05T23:37:56.212Z",
   "count": 60,
   "articles": [
     {
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "환율 두 달 새 250원 뚝… 달러 예금은 역대 최대 - 조선비즈",
+      "description": "Chosunbiz 보도",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQm0wN1lINWJIQktDNzlIdnhTODZnQzNkdDMyV0RIX1lRNjY1X2lBejlrc2FDd1ZSTkFScnpNMENpUHBxcW05b2FOVUh0R1VFOTc3dHNYS1UzbC1ZLWsxdFAtYTYtWjhDTjhOUkJBZ1JvZW8wemIwRWFHTmluUjVkU0FEbzJTcWVR0gGcAUFVX3lxTE0xYnlKdlJ0SGFFUGQxY1FYdFBDanl3X3ZXekJTaXRrdmJEcVVOVHFPTGNlTmFKX2w1aF9nSXZwUUFzdjJDZ2xKSXUxWFl1b09KeUJCOXNoQXd2Q04ySHBCU1dXVjNmclc5dW5JUnk5N1QxVnR0dmxHSy0zai13bE5lTmFHMGNQazVRRndvdHE4MGtyM1loWjZ6enh5eQ?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "Sat, 05 Sep 2026 23:17:00 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "\"노후 준비는 역시 부동산?…이젠 시대가 달라졌다\" 존리의 확신",
+      "description": "뉴시스 보도",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FTzh6WDg5b0RDdHR4SWUxeXRwUDlYeHA4R1hScGlMeU0wdWRwU3gxci00NWFPOU9rdmUzaE5Td0UzNEhIM3ZPbGEtenZuR1dOaFRwc1FNbTU3OGJCVjhzSdIBeEFVX3lxTE03ZExtUDZxeEVuc1o1Y1lZdng0dFY5UVRVU2RheW52aVk0UTBCeGFEdXp2ay1peDBIWWhTSUx3dERURXZIOGlRUkh6WjhKNUlRZG9YNFlWSmZQNTlQUEs0QjBzWVgyTHJIcFVLWlZBRDlkc1NTU09fbg?oc=5",
+      "source": "뉴시스",
+      "pubDate": "Sat, 05 Sep 2026 23:07:00 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "대구 아파트 매매 2개월 연속 증가…월 2000건대 유지",
+      "description": "뉴스1 보도",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bzlGUWpQMUZVTWhCZE8yblE5emd5eTRxX1M1S21zSVc0ZjB0RzNfMnV1eDRfTV9namtLTzRrbmZVUWVKekNMX1p0ZjlSNEhCYi1DbWVWUTJXZHdtSGJJ0gFkQVVfeXFMT3g3ang2aFFnMmduU19YdjBySm8xOXJtNGR6RFFadzdfeW95M3k3LXMzYlItd25obEtVWUhkeFI2SU05MGtGb19QamhyS1Z3VGFGT0JKeFZ3NVlkVkt5SXJCVEdPZw?oc=5",
+      "source": "뉴스1",
+      "pubDate": "Sat, 05 Sep 2026 23:00:02 GMT"
+    },
+    {
       "category": "interest-rate",
       "categoryLabel": "금리",
-      "title": "금리 3.5% 오면 내 돈 어디에…예금·채권·주식 재배치법 [머니 트레이스]",
-      "description": "sedaily.com 보도",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MYmlpNW1QMmR1Y1VsZUZ3TGl1dFBJX3d4cU55bHBqa21mMGhmX2piM0tvVnZMQUc2d3dPdXQ4NWtMZHI5RmdycDdoRUdwWXhZSmItcmRZWm56RXhZZFNV0gFTQVVfeXFMTnZzaGFtTkdmdHZnTUdMUTlGSmxPcHIycnNQQ05aUUJfVU5na3FEUHFXZE9KdEU5eDBHX1FMaXJMOE9DX1p0bkdCRlJrbFk1eUhDaDA?oc=5",
-      "source": "sedaily.com",
-      "pubDate": "Sat, 05 Sep 2026 11:42:13 GMT"
+      "title": "1300원대로 내려간 원·달러…'금리 발작'이 제동 걸까[금리 쇼크②]",
+      "description": "뉴시스 보도",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UQmFLbWJmU2pjRW9PY2hJSnRRTFlzQ295UWJkY0RZc2lkOXMwSEZicjJIU21ObmhEb0lPc3prUXVSUmo0U09aUnpLQjJUMjFhOG9MR3l4UV80TEdFVERUQtIBeEFVX3lxTE1PYndIMWh5b1BrbXc3bHF6UFd0RWp6bzV4ZTd5bHJkTlRtY19OX2tVY2VpaWc2a0pXemFGZFllNkNuOWc2d1Q5UWZFWDVzNzdJNFdOYjIwZnJ3NTF1QjFWWlN2VUJDWXJsR2R5TWxhLV93YjQ0aDR1UQ?oc=5",
+      "source": "뉴시스",
+      "pubDate": "Sat, 05 Sep 2026 23:00:00 GMT"
+    },
+    {
+      "category": "interest-rate",
+      "categoryLabel": "금리",
+      "title": "[주간증시전망] 美 금리에 쏠리는 시선…바이백·물가지표가 코스피 향방 가른다",
+      "description": "네이트 보도",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aVU96VDV5YTc0dkRzdWhDUWtQb1A2NmpNTDZEM2luelZ3U0dKb2twUWRNMThKSzJvbnh0Zml3cjZaczVLOW9uOGZVTmZYMGNxZW1r?oc=5",
+      "source": "네이트",
+      "pubDate": "Sat, 05 Sep 2026 22:53:00 GMT"
+    },
+    {
+      "category": "interest-rate",
+      "categoryLabel": "금리",
+      "title": "[머니톡스] 미 국채금리의 경고…'안전지대는 없다'",
+      "description": "매일경제 마켓 보도",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lREl3eGNTOW5lcGdFeEFOcllzeV9nYnF3QXR2eW9KVDM4dzM3UWhwdGJfQUotT2cxZXJINzRYNGtXVVpYaTlnLWQ1MFZfaDJ3Wmc?oc=5",
+      "source": "매일경제 마켓",
+      "pubDate": "Sat, 05 Sep 2026 22:22:02 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "미리보는 재경위 국감…'부동산·코인稅·미래대응기금' 쟁점",
+      "description": "news.einfomax.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mMnh4MkdmQTBsOG9BZUI1V1p4cFNiZDlBWC04XzJ4VlVTNnRkNFRwVzI4WVpjcFpaT0pFa1N1eHRMXzg3aE05aTFOVXU0Z1llVUUyV0VJa2ticjQ5bVp2TFZsaEFYLUs4eGpGRHZDSEU?oc=5",
+      "source": "news.einfomax.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 22:10:01 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "“아이 덕에 서울 안떠났죠” 배우 부부, 月 50만원에 신축 쓰리룸 살게 된 비결 [부동산360]",
+      "description": "v.daum.net 보도",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51MnNNQUVJcmlTMG1fNW1mYkN6VTdnQWtKS0M5UzFHNlJ4Y2Y1RTFVbWpUbmkzekRLVXhvNHFoaWdyT1NYX3c1MjBEQlRWUXM?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Sat, 05 Sep 2026 22:01:49 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "이사철 대란 올까…8월 비강남권 집값, 강남권 2배",
+      "description": "news.einfomax.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nUXo5SDZucWg0UWtLYkxILXNxS3BlVkNSLTlDYXlMbzJobHB3QTRVSEx6R1JCVHBSbzhpZEhIckZ1Mk10b2dTamJsWTBBREwxQ05hSzFZdDlvQ1prem90NVAwUG1Xc2R1Y1BDNDdYZG0?oc=5",
+      "source": "news.einfomax.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 22:00:16 GMT"
+    },
+    {
+      "category": "interest-rate",
+      "categoryLabel": "금리",
+      "title": "코스피, 밸류 낮아 상승 ‘여력’…“다음주 美 물가·금리 지켜봐야”",
+      "description": "동아일보 보도",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vRWtTSDFhWXVmYUp0WmRSSzM3SHBCNXRlMjNKZS1WVFJMRHNTeTFma3Z2SUFDckotWE5PeWw1emhSYVFoeGxTV0hpOVU3dmZYdE9xVkRiVXNja2VQNHpQVVZGTTF1UnB6UUU0YVdXWl9jOWpLX1HSAWZBVV95cUxNSVRaMEFMMENXT2VJNEdyR1RxeUNjWlV1SnUyX2dCNmlZak5xYmhNWWw3aTdoVEN0cHR6dF9pbG1WZUJReHZUaEFFVjBCT1hxcnlXb0gtZkNZV283MTQyTmpGVjA4b3c?oc=5",
+      "source": "동아일보",
+      "pubDate": "Sat, 05 Sep 2026 21:53:14 GMT"
+    },
+    {
+      "category": "general",
+      "categoryLabel": "경제 일반",
+      "title": "오세훈표 '서울의 밤' 첫 제동…서울시의회, 야간경제 12억 삭감",
+      "description": "v.daum.net 보도",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1ZnJkTTF6OVhKcnNyQWM4TGVOUGJrZWFDb2V6Mk1GelljYUFCMGtyWGw1dllXSFhmdFJ2ZEQtaFpnN0J3WWRYY0pPd0l4SG8?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Sat, 05 Sep 2026 21:41:28 GMT"
+    },
+    {
+      "category": "semiconductor",
+      "categoryLabel": "반도체",
+      "title": "“이러다 K-반도체도 LCD꼴 난다”…中 CXMT, 애플 업고 삼성·SK 흔드나 [칩칩팹팹]",
+      "description": "v.daum.net 보도",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvczFpNDFlUUxSMmp3SWVTajRxNEFlbHVDVklaa2Nxa1FtZDZueUI1Z2FJd3Z4M0RMQWc2YTF4TnBXdUpVazhpMExsYm10UEE?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Sat, 05 Sep 2026 21:32:00 GMT"
+    },
+    {
+      "category": "interest-rate",
+      "categoryLabel": "금리",
+      "title": "[크립토 이슈] 금리 동결 기대에 가상자산 반등∙∙∙통화정책 변수",
+      "description": "이투데이 보도",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tbVFzQjNOTGJqdlVBVG9kdzRFZVU5SUJLTnRNQm1PbUlrcFdJdHhSNDdJaTV4RW1jUjRqR05OS3VJb1hFejdqbjJCaDNfdGxrblFmaQ?oc=5",
+      "source": "이투데이",
+      "pubDate": "Sat, 05 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "category": "general",
+      "categoryLabel": "경제 일반",
+      "title": "서울시 '달빛야장' 키워 야간경제 살린다…도로점용 등 제도화",
+      "description": "yna.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2aWN1OUlIdWJjcHR4WDAwZ3hKRHNHdEVZTVNSYVh5SU9POVJCejF1LVpjeXBxa1NDdmdBSU93RlY4YkZwbGxMR3E3OWhybXZIemljV0NNX3JOSEXSAWBBVV95cUxOQzhRTmlneGFCSGd6cFNqQk1Bb3d0LUJJZWZHM3I3cHhFRHZKX0o0WFU2UVkyRWVtdmtMdUgwNnB4cE1Md2x2ZUNXaDhJOGJvdlRtQkJQYWJJbEVzNHVRZHQ?oc=5",
+      "source": "yna.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 20:55:05 GMT"
+    },
+    {
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
+      "description": "yna.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQkl4SnhmTWU0MEotVlpDUFpFdVM1R0RhRVBhbE55cTNrTWdsUTEzeFJlUEo3a0RtNXpoN0wzeVVKSm1PQ1dSeTZSLVVmTThNT1Q3dzQ3VXROVWc?oc=5",
+      "source": "yna.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 20:53:01 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "저궤도 명당을 잡아라...우주도 '부동산 전쟁'",
+      "description": "YTN 보도",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByUndoSTA4OElic0hmWG1RRk5GRkVWYlo2aklrOTMyMzdlaEl4ZkRvakhvVGhTdXhwMTJLMkVreXh0TC1MczlpZnZkUVhZVXRlcGJuWGI5RUlzYVMwWkE?oc=5",
+      "source": "YTN",
+      "pubDate": "Sat, 05 Sep 2026 20:35:00 GMT"
+    },
+    {
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "박스권 갇힌 코스피...개미, 환율 급락 타고 미장行",
+      "description": "dt.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HLTI1UXVNN2NiZ2JUQ1JtNEZ6WVN2MS16Y0NtVnJkajV2YkxwRVJjcDhQbFNtZWVIMm95OE9zOFFxa0RRTTBoQlJrSjgyQQ?oc=5",
+      "source": "dt.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 20:30:00 GMT"
     },
     {
       "category": "ai",
       "categoryLabel": "AI",
-      "title": "[2026 Yidan Prize, 건강, 영양, 경제의 교차점에서 교육과 돌봄을 재정의하는 변화의 주역들을 인정] 건강과 영양 분야에서 연구 경력을 시작한 이들은 조기 자극과 양질의 상호작용이 아동의 발달",
-      "description": "AI넷 보도",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1EbWFhMVAxeVYzMkpuNXNCM2o2OU56YUdUbVR6Z216OF95cEgxamJ3MUNYUWhrM01MRTYzRXU5aG0?oc=5",
-      "source": "AI넷",
-      "pubDate": "Sat, 05 Sep 2026 11:20:54 GMT"
+      "title": "李 대통령, 프랑스 국빈방문 출장길…경제·AI·원자력 구체적 성과 기대",
+      "description": "v.daum.net 보도",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzYUVDQWJuT3dEQXlNak1ibXI2X1ZaT0RmMy1QUjR1UWtPUnZwcTNNMW81amgtdFl3VHBoU0Q1Vjl1bHZia0wxUzRNN25HNG8?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Sat, 05 Sep 2026 15:02:13 GMT"
+    },
+    {
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "재초환 부담 본격화…매도인·매수인 누가 부담하나[똑똑한부동산]",
+      "description": "edaily.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTE1cVNzQ21yRHgxcjdLaUtNYmxtNVBxNDE2SmxaaEQ1YlJoY2V1V2cxWmRCMGJCNnJaZ1owZjVZa1RPSndSY19hLVBlQ0Vad2J0ZzVWa2pCZFdYdkdNcFE1REhVVnNkMWFJNDJjUjV3REU5ZVVFMktpMXRvM3JTVA?oc=5",
+      "source": "edaily.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 15:00:04 GMT"
+    },
+    {
+      "category": "interest-rate",
+      "categoryLabel": "금리",
+      "title": "[프리즘] 1년 9개월 만 기준금리 3% 시대…추가 인상 시계 ’째깍’",
+      "description": "연합뉴스TV 보도",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pb3VVM1dQYXpjb24tWDNja0VKQm1Nc3pyYk9zMVp2QWM5ajdHZ3YwZi01RGdPeTM4eXh6WFdmdU9VOUxDUDhmbVh4TVJOVFdzSmhQZHFkdG1VWlg5cVNiNWZBRW02LWM?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "Sat, 05 Sep 2026 14:42:00 GMT"
+    },
+    {
+      "category": "ai",
+      "categoryLabel": "AI",
+      "title": "중기부, APEC 20개 경제체에 중소·벤처 AI 정책 공유",
+      "description": "더글로벌기빙뉴스 보도",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yLVJSZ0hsTXJiRU12enV2R2o0djVXR3hfeHJpcG13OG8yekdzbEVyaDF5aC1IT0ZCOEVSVnhmZGNwU1RKZ0VwSnZBZFZSR1N6QUhlcw?oc=5",
+      "source": "더글로벌기빙뉴스",
+      "pubDate": "Sat, 05 Sep 2026 12:31:00 GMT"
     },
     {
       "category": "semiconductor",
@@ -41,47 +212,11 @@
     {
       "category": "semiconductor",
       "categoryLabel": "반도체",
-      "title": "“반도체를 레고처럼 쌓았다”... 광학필터 없애고 신호 23배 높인 웨어러블 센서 개발",
-      "description": "특허뉴스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10bFdLMWNhY0tqRjBiaGFtaUY5b3dTbGdNWmdsQkJydUc1SnhubU5UdFM0NUtrZm9Cd1VheVRFc19ZX0RWSGxfeA?oc=5",
-      "source": "특허뉴스",
-      "pubDate": "Sat, 05 Sep 2026 10:36:00 GMT"
-    },
-    {
-      "category": "semiconductor",
-      "categoryLabel": "반도체",
-      "title": "“우주에서도 버티는 반도체 나온다”... 전류 점멸비 1,000억 배, 초광대역갭 소자 개발",
-      "description": "특허뉴스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZUdzNHdhMU1ZLVI5WndCeE80OXVzOEptVUt0aDZ2QUpsSW8ta1VwUHFEUVBFVUN2dFZmdUo3d2dKSS0xSUNLVg?oc=5",
-      "source": "특허뉴스",
-      "pubDate": "Sat, 05 Sep 2026 10:21:00 GMT"
-    },
-    {
-      "category": "general",
-      "categoryLabel": "경제 일반",
-      "title": "사회연대경제 가치와 비전 공유한 제주 기념주간",
-      "description": "v.daum.net 보도",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbkEzc1l5Z0tHWHF5MEJmUDI3UWh6Q3RBZ1BjcUF6NGRQTUxhM0xrLW1WWXFYVlMwRFBQTlFNOWpiNFlpRm1WLTVERWNfZkU?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Sat, 05 Sep 2026 10:20:00 GMT"
-    },
-    {
-      "category": "semiconductor",
-      "categoryLabel": "반도체",
       "title": "\"저축의 시대 지나 투자의 시대로…美 증시 하락에도 반도체 호황 지속\"",
       "description": "뉴시스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLMktiMTlwNlZLSlBtRUNkQk9JT3FnamhRWS1UT2Y1b3RsTzhoT2lXMTZuVWp2T2txSmRFWF9kYjNjcExrYmw5OG9DaGJ3WTZLVDNfbXF0bkRYME1EWlh3dA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLMktiMTlwNlZLSlBtRUNkQk9JT3FnamhRWS1UT2Y1b3RsTzhoT2lXMTZuVWp2T2txSmRFWF9kYjNjcExrYmw5OG9DaGJ3WTZLVDNfbXF0bkRYME1EWlh3dNIBeEFVX3lxTE8xUGZGeWM1ZmNISkFpbXAyQm9lclBHNjlpVHhSN2lsX3pEcGVvX2QycXJkOUY5TGViOWV1aS1mMWVWVk5sbTlaV0JwYnhKUFZtTVlkWWFSVVNrSkYwS3FCTzFhSldCa1lBZi1acUdhX2w4cENPczdOeA?oc=5",
       "source": "뉴시스",
       "pubDate": "Sat, 05 Sep 2026 10:11:00 GMT"
-    },
-    {
-      "category": "general",
-      "categoryLabel": "경제 일반",
-      "title": "세금이 바꾸는 돈길…\"韓증시 구조적 변화\"[주末머니]",
-      "description": "v.daum.net 보도",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kMnh1X1lRQWlqbGNmc184ME1TYTMxdkE3UE93NHpjdi1XTDNSdkZGbE9SZ294SC1sTzRjOXF3UC1MLXQ4VktORGg5d0RDbVU?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Sat, 05 Sep 2026 09:26:00 GMT"
     },
     {
       "category": "interest-rate",
@@ -93,22 +228,22 @@
       "pubDate": "Sat, 05 Sep 2026 09:24:00 GMT"
     },
     {
-      "category": "general",
-      "categoryLabel": "경제 일반",
-      "title": "민경선 시장 “탈플라스틱, 선언 넘어 실천으로…순환경제 전환 앞장”",
-      "description": "아시아경제 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSG1KaWZkVEptZjU1VDhPVVBrSTdadURfd3I4MlpjWDRzWWZZUU9DYWtSdjMxSHlqSDdONkU0TVVWS0RSY0pUR2hEdWJqTHpxWjdvTEJOdHJESzc0WDJ3TA?oc=5",
-      "source": "아시아경제",
-      "pubDate": "Sat, 05 Sep 2026 08:39:26 GMT"
+      "category": "realestate",
+      "categoryLabel": "부동산",
+      "title": "좀처럼 멈추지 않는 집값 상승세, 왜? [김경민의 부동산NOW]",
+      "description": "v.daum.net 보도",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xRmxuLW9GM2ZvMEtKYXg0VEQta3l5bUthcmlacVZQdVBuc2RZdF9mUk56UGlwTkdxdXR1dFFsRWFnV2RUQkxrZEt3TG1TOEE?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Sat, 05 Sep 2026 08:03:04 GMT"
     },
     {
-      "category": "semiconductor",
-      "categoryLabel": "반도체",
-      "title": "반도체가 끌어올린 수출…248일 만에 지난해 연간 기록 넘었다",
-      "description": "edaily.co.kr 보도",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEhnbEpZSlFlUHJYTHB5alg1LTR1dG81U2JxTGZNR0d4MVBjdU0yeEZ3N2ZwbzlLaVQyOElnSGwxWmR0MXBmcHJOSGVrUDhsN0NDSnpYREdOUVh0RG1mZWZhLTNxUk5ZVXRseXdUbUxRcmdZLWxaaDBvSEJzQWhtRQ?oc=5",
-      "source": "edaily.co.kr",
-      "pubDate": "Sat, 05 Sep 2026 06:48:22 GMT"
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "환율 끌어내린 기업발 달러 공급…원·달러 추가 하락에 무게",
+      "description": "에너지경제신문 보도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40UHZ1QzNtMV8zd2dnMWNCNEdxU0Z1S2tGTmxjWklPbWxtd1dPR0k3NkNTLTU3N3dEcVp3WWt1eTYwRkR5dWg1TkNscFZkWjNJWE9leGVUZkt0akU?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "Sat, 05 Sep 2026 06:00:00 GMT"
     },
     {
       "category": "ai",
@@ -120,13 +255,13 @@
       "pubDate": "Sat, 05 Sep 2026 05:50:37 GMT"
     },
     {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "부동산 안먹히자 中 스포츠시장 1500조원 성장 카드로...",
-      "description": "뉴스핌 보도",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TMFNYbmtobWxHN2Y4WGZZNWNjT0ZvbFJSZ0dLOHNWSk1Hd05CTTlPbE16V2F0UElIWjY1bnZfLW05RGN5Vkw3cDIwVXpuNmtwNXVTcHNHTkttenJr?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "Sat, 05 Sep 2026 05:41:00 GMT"
+      "category": "semiconductor",
+      "categoryLabel": "반도체",
+      "title": "AI·반도체·로봇·바이오, 정부가 직접 투자하는 이유 - 영상 | 멀티미디어",
+      "description": "korea.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ueTJFVWE5T1dnMkwxV1BobEV0cGVYUHFqa0RlSTNsMTY3OUFUUFZPdFVQTWQtak1OY3pzN0N6MFBVaGdiY0wyUTZLU0pFd1hHYkg1QjFzTUpKc1JaTHJJTC03YkxqSG9hV0xYTg?oc=5",
+      "source": "korea.kr",
+      "pubDate": "Sat, 05 Sep 2026 03:00:00 GMT"
     },
     {
       "category": "general",
@@ -149,6 +284,24 @@
     {
       "category": "general",
       "categoryLabel": "경제 일반",
+      "title": "중동 리스크에 유가·금리 ’들썩’…국내 경제 발목잡나",
+      "description": "연합뉴스TV 보도",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWkZncXZDcTAyWmZkcksxUEk5MFY4WEZZenpHaUVfeUlMQmRQbXdmc1lpR294RUtTdkxjV3ptcDZ1YjJyd0F5UWxNZUZUeUNIRzUtWXgzNzB4cndFRmpzVDlMaVQ2VXM?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "Sat, 05 Sep 2026 01:11:00 GMT"
+    },
+    {
+      "category": "general",
+      "categoryLabel": "경제 일반",
+      "title": "'역대급' 경제성과는 왜 대통령의 지지율로 이어지지 않을까?",
+      "description": "프레시안 보도",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RGhOUEJSZXNUc2hlYVloeFU4ODFzeVk2X08zOEdpTzJuak93dmFpWF9HMzREblUtUFY5YTdXSGtsaGtLRFA5LXlOMjFXZlpfeEwzZ0k4WGEzZ01idGVNR3hXejR4Yy1mNzJV?oc=5",
+      "source": "프레시안",
+      "pubDate": "Sat, 05 Sep 2026 01:03:13 GMT"
+    },
+    {
+      "category": "general",
+      "categoryLabel": "경제 일반",
       "title": "한은 \"통화정책, 금융취약성·경제주체 기대 함께 반영해야\"",
       "description": "news.einfomax.co.kr 보도",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fVk5vaUNIX0lGeVlLYTAyY3plbjltZGNFZGVIZUdlSEZDOWc3azlnMnB5RXpodzY1RmxHcVVwbUhSTGV4R2NucnpJWDN2aFRxNThEOEEtMHdMTTVxU0VyM0RaOFhNdlZfdVJKNmpaVDc?oc=5",
@@ -156,40 +309,22 @@
       "pubDate": "Sat, 05 Sep 2026 00:50:01 GMT"
     },
     {
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
+      "description": "news.einfomax.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5",
+      "source": "news.einfomax.co.kr",
+      "pubDate": "Sat, 05 Sep 2026 00:30:02 GMT"
+    },
+    {
       "category": "general",
       "categoryLabel": "경제 일반",
-      "title": "추석 앞두고 밥상물가 ’불안’…2기 경제팀 시험대",
-      "description": "yonhapnewstv.co.kr 보도",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85WU9zRlFuNDBLV1RZQ3lsU1Rad0Z5WHNSaDViOGs2YWQ4VDRIeVdzYmdPQUJKbFU3QUxfclVCVTVSWmJmUERQOFI3eGZVeEFHVzJnZXVqeXBTVmpUWHpkRDBma0RtT1k?oc=5",
-      "source": "yonhapnewstv.co.kr",
-      "pubDate": "Sat, 05 Sep 2026 00:31:00 GMT"
-    },
-    {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "‘빚 내 집 사지 말라’더니 본인들은 영끌·갭투자?…국힘, 부동산 수장 후보자들 정면 비판",
-      "description": "v.daum.net 보도",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kRUNSOGc4U045ZWZSRmVpYTdwbEM4RVpYQm51S2RQN2Y3dWU3WDNxOWpfVGFHT1c0ODlLUTE1c0ZwbXVUczl1R2VacnN0Snc?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Sat, 05 Sep 2026 00:24:39 GMT"
-    },
-    {
-      "category": "interest-rate",
-      "categoryLabel": "금리",
-      "title": "트럼프 “금리 안 내리면 무역적자 국가와 교역 중단”…연준 압박",
-      "description": "한겨레 보도",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yRGExTFgtbEVITXFwcW9iZ0EtYjdZUTYtenphdU5TMzd2Qm1VY3ZXSVRYelByaW9oVjk3YXVtcFZPTDFkMWhQVU5GYzRxS0FfbHRIbk1SVkpYd0F2S0lsN09BaU9JRWVRMDZMQ0FFaw?oc=5",
-      "source": "한겨레",
-      "pubDate": "Fri, 04 Sep 2026 23:48:00 GMT"
-    },
-    {
-      "category": "interest-rate",
-      "categoryLabel": "금리",
-      "title": "숨고르는 국채 금리…'고금리 장기화' 불씨는 여전[금리 쇼크①]",
-      "description": "뉴시스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mTjduUFBpcEg3Um5DVTYtSXRNY3BYWHV1WDQtaGprcHRmSm1GLW1Ka0xmaEpYa0h0Q1RWc3hlSUVxZFlpQzlHTkxOU21YaGFTUTJZS0RqZ1JfNVlzekhyT9IBeEFVX3lxTE83Smg4c3k2U3pJQUFxeWZwak5FYUxtMVZpak9IOGZXdzZ6ZjZKQVozNGlsSERidVdIUlpZR0NIYU9MM2h5TGUzSHVQTU5RNEtWTUZPSjhZUTJYWWdDazNvbmNSU24tUXpkZmdxNl82VmJYMGxwbmsxTA?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Fri, 04 Sep 2026 23:00:00 GMT"
+      "title": "[다음주 경제] 취업자 얼마나 늘었을까…2분기 GDP 성장률 잠정치 주목",
+      "description": "매일경제 마켓 보도",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVa29DWkFxNVFucUExdkM1RnViRkRGRFVrbWhxLUpGbFZNNVZuN1ZNYUcwanJTSnhxRjROMWZKQ3lFQVBGS09YYkxzQUVKTThBNEE?oc=5",
+      "source": "매일경제 마켓",
+      "pubDate": "Fri, 04 Sep 2026 23:55:39 GMT"
     },
     {
       "category": "semiconductor",
@@ -201,103 +336,49 @@
       "pubDate": "Fri, 04 Sep 2026 22:08:37 GMT"
     },
     {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "\"공동명의가 무조건 절세?\"…집 살 때 따져볼 득실[부동산사용설명서]",
-      "description": "뉴스1 보도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VXJPcWZDZVI2RGxEVkcxcTQ1ZWpJQ0lRWnQxeERtTlRuNFRBdktVLTBNUEtWSmcwR1ZkQ3oxOFFWdWZSRnRXMlR2cDVfUHNjSmRjWF9BRkxaajg?oc=5",
-      "source": "뉴스1",
-      "pubDate": "Fri, 04 Sep 2026 22:05:00 GMT"
+      "category": "general",
+      "categoryLabel": "경제 일반",
+      "title": "[경제뭔데]9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까",
+      "description": "khan.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFd1NsX3RpVm5ER0N4b3hIOUc5UlZuU1JfbTdURzNfTzlRZy1ZWHdUT1FUSkZzaW8yeUU2MHRXMVFqd0M1OEs5WjRTVWtsU3hVZnpYclpFNmtRd9IBX0FVX3lxTE1QdHlzdXp6YjNJdlhXamlBVmdkMDNzS3R1MFZqOVBxSWZPM09ra25tYnh6eFEwWU5mUTZKUEZIaVdQQ016ZDFwZU9wbXBxQVVlS09pSkFwTVZMVG5leWpv?oc=5",
+      "source": "khan.co.kr",
+      "pubDate": "Fri, 04 Sep 2026 21:00:00 GMT"
     },
     {
       "category": "semiconductor",
       "categoryLabel": "반도체",
-      "title": "가을은 반도체 성수기…韓 수출 우상향 지속할까 '주목'",
-      "description": "뉴시스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVUZHU1JKUm0wYUJkaUF4aTVHY3hjSWMwNW92c0N0OE8yLWxSWENvWUhrRW5NQ1BKeHNtcG4zYzNodEZsOGI5VGJoamxtLWtsbTNGYTNsN3FObW12TEtoZtIBeEFVX3lxTE1sdTRmTG1aTHZYTGowMmRmdWE1ejR3WEVtM1JjQVB5MENlV2lqdHB5S3l2ZHE5SENSTE82SFBBcGdnM3JYdVFuZzlRNmtobVgzaThJa1hpa0lseUhXalNQREIwODBCNUh6QmptSFExaXgybVdrZlg4Mg?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Fri, 04 Sep 2026 22:00:00 GMT"
+      "title": "\"배치전환은 교섭대상\"...호남 반도체 팹 영향은?",
+      "description": "YTN 보도",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWEstdWs2NHZoYm55RHVYdWdQTU9rNGpNejk1dVFvYjQ0dUczcktITlBSOEp1QmhSeFhyb29WXy00WWE4d1RFdjRZdWgyVnZLWmlTYUdqRng4Mmp0Snc?oc=5",
+      "source": "YTN",
+      "pubDate": "Fri, 04 Sep 2026 20:21:00 GMT"
     },
     {
       "category": "interest-rate",
       "categoryLabel": "금리",
-      "title": "유럽 증시, 미국 금리인상 경계에 혼조 마감 …독일 0.17%↑",
-      "description": "뉴시스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mdktzYm5fa21EbHZzWnFOUmE5TWdXVU03d3hvNktsV1NlYmluLVIyb2dfQU1aQVJ2QWdFTmZ2aWJ6REZVSzlnSXZNSmVpMjJIckNqSUkwRWJuQkh5S29qNtIBeEFVX3lxTFBBMkdqdG1Cb0pfZzA4SjVPY1JLaEJUTmdpUDFpcGRwY3RtdWlwUktIVlNOV0hQaXd0MG1YNUVGNHprbXhXV3NiVUs4bHpZVXJzV3ZYdG5fYlJORUNOaFdLaVotSE9wN09ULXpIbzhUWHB5cGZIMml2ag?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Fri, 04 Sep 2026 21:57:00 GMT"
-    },
-    {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "[부동산캘린더] 내주 서울 성북 브라운스톤월곡센트럴 등 2천852가구 분양",
-      "description": "연합뉴스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVGxhMElTNzVyZjU0VUNyZTZLWG5UZ1pnMm1aa1FYQ29oX3h2b1RTRHVDenExekFZM0ppN1lfUmIwel9WM3RGSi1ua0NqeWdWUndoak80YVRkY00?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 04 Sep 2026 21:05:00 GMT"
-    },
-    {
-      "category": "general",
-      "categoryLabel": "경제 일반",
-      "title": "[경제뭔데]9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까",
-      "description": "경향신문 보도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFd1NsX3RpVm5ER0N4b3hIOUc5UlZuU1JfbTdURzNfTzlRZy1ZWHdUT1FUSkZzaW8yeUU2MHRXMVFqd0M1OEs5WjRTVWtsU3hVZnpYclpFNmtRd9IBX0FVX3lxTE1QdHlzdXp6YjNJdlhXamlBVmdkMDNzS3R1MFZqOVBxSWZPM09ra25tYnh6eFEwWU5mUTZKUEZIaVdQQ016ZDFwZU9wbXBxQVVlS09pSkFwTVZMVG5leWpv?oc=5",
-      "source": "경향신문",
-      "pubDate": "Fri, 04 Sep 2026 21:00:00 GMT"
-    },
-    {
-      "category": "ai",
-      "categoryLabel": "AI",
-      "title": "데이터센터 없이도 AI 된다 … 오히려 더 빠르고 안전하게",
-      "description": "매일경제 보도",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxel8zaDkzY0lLMGRsczNVQThmN05lSkEtdnhubmFlOEtUc1ByVTluaWdFOVgwb0xiT1JLQ0pHbVpaZHJWWGFUSHhPZWZ6Zw?oc=5",
-      "source": "매일경제",
-      "pubDate": "Fri, 04 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "\"일본은행 금리 올려도 엔화 약세 못 벗어날 것… 170엔 가능성 여전\"",
-      "description": "조선일보 보도",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM25BbzQ0NTRkSlhqQ1lYanFzMXhmTGNCVTk3a1B4QTBrX1U0Y1ZiR2RHY0w1TVBKV0hmRHVwdjZjQ3RkRjZHVW1pbWdZTERVM2RJRWdtc0JzTWlCSGNreFdOSzhESHB3RC1oVTEzVEhwZnM1UE4wWVA5WmRLc1h4RE1TQnJMdw?oc=5",
-      "source": "조선일보",
-      "pubDate": "Fri, 04 Sep 2026 18:00:00 GMT"
+      "title": "트럼프 \"연준 금리인하 안하면 美가 적자보는 나라와 무역 중단\"(종합2보)",
+      "description": "yna.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GMzgtUFVPRTFzUHNwYnNYSmp6LUVjX3pzWllGVS1RV3Y2RmRRYm52Nlpfeno0MjUxWHd6c0hLOTU2QmxxZDdFN2VsVXhxejRIbkYzQjJubXluUHPSAWBBVV95cUxNRjA1em8zemVLTzRfRDdUbWdmQmtIV0hTQ1o1bzZtSE1Ubkd5dGlhUWt2bWlzdFgyQ3F3M2otWVRBU2h2bTAxNTVoVWstMndWNVhZV2k1TTJyV2NJdkxwdWk?oc=5",
+      "source": "yna.co.kr",
+      "pubDate": "Fri, 04 Sep 2026 20:10:57 GMT"
     },
     {
       "category": "realestate",
       "categoryLabel": "부동산",
       "title": "\"앞으로 2년 더 오른다\"…부동산 전문가 \"강남은 기다리고, 그 외 지역은 서둘러야\"",
-      "description": "뉴시스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BdUJPTFk4U1EwSjBZbW9GNkVDUk5RUHg1alAteWxXbWtuaFhEckowbnJSdlo3UkhWcVpDOFlUNGVubWJFbXpvTnp5WkVNNzU5dlY4QVRBNUNvTE0yNGhtT9IBeEFVX3lxTFBJSElKelFSRjRoZVFwU3B2YTNwSmhiRjlnM1NUWGJwNlZGeElqdEYycDZnSHdqUG5peDdGdEZERnpZUk9DM0EweHZteTAxdlljdDBHTDVwXzZza2J1WmthSkM0ZDc1MDh3VHNMRkUzSTFrN2RMSERkYg?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Fri, 04 Sep 2026 18:00:00 GMT"
+      "description": "파이낸셜뉴스 보도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5venR5bG5qMWRDdnN3S0lxTkR5bm4wNUhjcUltTlpvX0doYmZlM2NuaHBBNWExTDFzTlVxU29MaEV5clRRZ3ZXak0zNk9vaVpUdUF6aDd6cFQzUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "pubDate": "Fri, 04 Sep 2026 18:01:00 GMT"
     },
     {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "‘당정 일치’ 내세웠지만… 부동산, 2기 개각, 메가특구 엇박자",
-      "description": "조선일보 보도",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNak1rTVk0ejh5WDZVM0l1R0xBR0o4T0NPNXN2RmRsZkcxbHdMOTBNYXhfN2MzT0UtTUtOZEVkRWROVGE3LW02RDdzSlJnQmhLMEhrbWl6SmVyd2M1Zk9FN0g4emZxMXhhZjYwWEw3azJuQWoyRFlJT2tBSUUtdlJyRkVmUW5SUQ?oc=5",
-      "source": "조선일보",
-      "pubDate": "Fri, 04 Sep 2026 15:51:00 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "\"김계란씨, 환율 800원 되면 해외직구 대박 나 좋다고요?…수출 기업은 다 죽어요\"",
-      "description": "뉴시스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQamNOUFFXbmIyeHBUMjNJVXgtbHZNd2VlLWQ4d2FObWFUTEtuR2MzYURTLS1PejdKWnlDOFBzdVcxaTJZT1F1eG15alNQWkVDaldDREV5bW42WmNJRkVjcg?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Fri, 04 Sep 2026 15:30:00 GMT"
-    },
-    {
-      "category": "interest-rate",
-      "categoryLabel": "금리",
-      "title": "美 고용 서프라이즈…금리 인상 공포에 증시·코인 된서리",
-      "description": "전자신문 보도",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHbHJzcTZNaXBmaktNbkc0OS1xV21meUE0TFdlMnVTY19LUGhlM2dMWW5lYUUzeDhHRnJFNTJhR1NxUEstN01TR2w2aWIzUQ?oc=5",
-      "source": "전자신문",
-      "pubDate": "Fri, 04 Sep 2026 13:38:48 GMT"
+      "category": "semiconductor",
+      "categoryLabel": "반도체",
+      "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때",
+      "description": "동아일보 보도",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUUVVbExCQmFadTJ5ZDRfcnFTV29TeF9TbkphWkhFSUNROVQzeVdaUG55b2N0a2pyNFFWTEluc0YxUG9TUFg3T2QzTVRNNDVTQWtXbnI1U1AydDRNWDVPWS1sT212YTRMX0J6a3c1NENKU09MemfSAWZBVV95cUxNYnIxYy00MW8tTXpEUHpJaGhLbXZhSDM4a3hGaUtqZm45TWZ1TVpTdjlrbXpDc08yQ2hqaFlpbVlBTXd0ZUxXdTlJQUtkdmlkR0xTN2ZqWmVjdi1yZm91LUxwS1g5UEE?oc=5",
+      "source": "동아일보",
+      "pubDate": "Fri, 04 Sep 2026 14:27:00 GMT"
     },
     {
       "category": "general",
@@ -327,67 +408,31 @@
       "pubDate": "Fri, 04 Sep 2026 09:26:28 GMT"
     },
     {
-      "category": "general",
-      "categoryLabel": "경제 일반",
-      "title": "美 '왕따작전' 먹히나…물가폭등·통화폭락 이란 경제 '질식'",
-      "description": "연합뉴스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpSkFkTUhaa3J0ZU9yV1ZzRk9hQks0aFJGd0txb3d0SmJKSHJ1c2pNbXJRanJsWUdYZjBBZE9QdE5BUjducVFCaDVqTGtpYTMyYTEwTW9GSjZZYVHSAWBBVV95cUxOUFdUcFNQMVhFWDlkQ1NtU3NQZWc4ZmJuUDVXWnBmZHZQTGpGUWc4dDZhVko0V290OU85MXpKRUR5enlDRjE5NDRpZksyZ0tQRWpZMElJX045WGN5QnhoakY?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 04 Sep 2026 08:33:58 GMT"
-    },
-    {
       "category": "exchange-rate",
       "categoryLabel": "환율",
-      "title": "[퇴근길머니] 원·달러 환율 1,340원대…이름 같다고 ’용혜인 테마주’?",
-      "description": "yonhapnewstv.co.kr 보도",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zbkZvQnNCTVFnY2tBWV9nUFF3bE5qLTZ3eXZlcEVCbXlpcW5DWXlScmtJUmhsOHhzZDVsY0YzNTdWQXBGbV9LaVVUVUZhLWRVV0xkN0N5WXFmWExwOWNQZEZlVlV6MGc?oc=5",
-      "source": "yonhapnewstv.co.kr",
-      "pubDate": "Fri, 04 Sep 2026 08:27:00 GMT"
-    },
-    {
-      "category": "interest-rate",
-      "categoryLabel": "금리",
-      "title": "[임성현의 특파원 인사이트] \"워시, 매파본색 드러냈지만 … 금리 인상 시기 두고 혼란만 키워\"",
-      "description": "매일경제 마켓 보도",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xeWRRWmtEd1NmR1ZRWkNxT1JnT2J6Ui1sbTlJa19lUkJwanZ1VDRVYjRMN0QyQ3dBZGdReEU0QUhlNl9IZnNiSzZWTEJ1M1ZnWkE?oc=5",
-      "source": "매일경제 마켓",
-      "pubDate": "Fri, 04 Sep 2026 08:16:41 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "엔·달러 환율 이틀 새 5엔 급락…'엔 캐리' 청산 관측",
-      "description": "v.daum.net 보도",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLWE01UXZnMVY2RXpOTk1mWXJ5c3JtaTRDemtrbWRRN2lVSnp2ZHVINXg2ZU5JVHhBdkgtU2E3THp0T1luWkU0T1dUOVRyZGs?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 04 Sep 2026 08:03:00 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "[신간도서 출간] ‘환율의 온도’·‘나르치스와 골드문트’·‘일은 누가 하는가?’",
-      "description": "ekn.kr 보도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xNzgxay0wQ2xSYmw4NEh3U1k0dzFzMVJDODBfMFJMdk5BZVBCeHRYTmlsNFNHZjdKVDhQY2ROV3VoeFNPaGlMTGFHWjMwaEVVUF9oU1ZxbWdteHc?oc=5",
-      "source": "ekn.kr",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "ai",
-      "categoryLabel": "AI",
-      "title": "낮아진 성장률에…中, AI 명분 앞세워 GDP·고용 통계 손본다 [차이나 워치]",
-      "description": "한국경제 보도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51SHpQQlEyMjd4YndZSF9wU0JuaE9OcWdzTllOM0hiVGs0R0R5amYydWdIVVNma2VIWlRKLW9PZXh3b2pFY3QxUjJMNG9CVEVaUlgwS0ljaXZYQQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "Fri, 04 Sep 2026 06:42:43 GMT"
+      "title": "금리·환율·주주환원 '삼박자'···금융지주 회장 자사주 매입에 담긴 '시그널'",
+      "description": "newsway.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xeG55ZmtGVkJlbUZDaHplT0locm01NUFEQ2N5STVaV2J2TFpKQUE4ckE1UDljNWtTVEVzYkV1WkJGSmlYa2dJQldyNjdVcDdBb2VPOXdOdktUN0xJYUJXeTFBR1JHbmhoWXc?oc=5",
+      "source": "newsway.co.kr",
+      "pubDate": "Fri, 04 Sep 2026 08:18:00 GMT"
     },
     {
       "category": "semiconductor",
       "categoryLabel": "반도체",
-      "title": "미, 반도체 ‘표적 관세’ 공식화…‘지경학 위기’ 직면한 3대 메가",
+      "title": "삼전 초기업노조, 정부 시행지침에 “‘호남 반도체’ 단체교섭 의제 삼을 것”",
       "description": "한겨레 보도",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LTkcyY29Nalp3a3N0ZFJJWF92ajNaNmk4OWZzenhJdzRwLUFob1NuYy1MRWxZRmptWS1aV0FOYk5GcDlZYkVzNmFMOHdDQWpXeTYxdi1mNEducmlMbU1NMUNjampQeTVOeXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtTUpqdDFNS0o5b0tUdmkwTWZHZGo1ZTZhcTJlbzBETDFjY2VuMnBnalBOMXhTQ0JQQ1BQX1VlRDgzaG1KUnVEM2JvRG1vZ0dFYnFkZjFxZ0loSzJ0aW5jWkw2RTc?oc=5",
       "source": "한겨레",
-      "pubDate": "Fri, 04 Sep 2026 06:21:00 GMT"
+      "pubDate": "Fri, 04 Sep 2026 07:58:00 GMT"
+    },
+    {
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "[속보] 장중 환율 1340원대로 하락…2년 2개월 만",
+      "description": "한국경제 보도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55YWJHdjVCSEFGbnRKd21qV3NNc0hoZUdlSkFSTkhQVUlib1E3b29Yb1YwcWhaQkhBbFozVzk0QjBYcmlWeGhBcWN0QWlDeU5Gb2FOSzMyUm9qZw?oc=5",
+      "source": "한국경제",
+      "pubDate": "Fri, 04 Sep 2026 06:22:53 GMT"
     },
     {
       "category": "realestate",
@@ -397,60 +442,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SXQzOVBlSXJZNmZlcGxWOEJPQXVJUXN1OFVReExfUVZRUENSTGRxNDBrUVBMOVRhZDc1aE9jUE9KQ1BDVG5ja19IaC1hWVRQUnpoa1dYckpWR1JncTZNckQwZDhQcjh5UmQ0NUtJSHJGTUNjeEJnUWxtUdIBgAFBVV95cUxNaElITW9vUF9RUF9lSGlFTDVBQ3FUUTRTRDU4cGNpYUVUWlNkWEFHUk9kZ2QzUUg4SUFidUY1TF9MRzB3UXdUakk1Nk1uaFFnVUhpQzhnNkFucHVjWC1fU1VEQXk0ZlF4Q21DMTF3T0NvOFFpRG04V1ZXNnduaF9UVw?oc=5",
       "source": "뉴데일리",
       "pubDate": "Fri, 04 Sep 2026 06:00:00 GMT"
-    },
-    {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "첫 입주 앞둔 3기 신도시 ‘인천 계양’ [감평사의 부동산 현장진단]",
-      "description": "매일경제 보도",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yMk9sM0hyVXV1ZHFMXzhRUVI3V0lHRVdneENMZUducV9WVmZTZVJzRXdvN2NlSmt6SVdzUzRMMlByWDE2VGx1NXkyS0RRRTJYTldPdw?oc=5",
-      "source": "매일경제",
-      "pubDate": "Fri, 04 Sep 2026 05:44:54 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "“엔화 환율 심상찮다”…다시 고개 든 ‘엔캐리 청산’ 공포 [머니+]",
-      "description": "ekn.kr 보도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JUFZMbnBFNl92YlVPT0tLOVR0R1d0Y1RodVJieWc5YVl1dzRoNFZSVnA1aFJZaUpFaXZUYXdqa2w1R204VXBIZE1VS0tQd3pGVlBUSXJFTUpvZGs?oc=5",
-      "source": "ekn.kr",
-      "pubDate": "Fri, 04 Sep 2026 05:05:08 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "노무라 \"삼전닉스, 심각한 저평가…환율 악재 딛고 재도약할 것\"",
-      "description": "연합뉴스 보도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWjNVUjlranl1SzdyYlJmTWlrN2IwTUdNUVlrQ1VQNm1McjFzb1YzRm44cVEzaEJKd1ByQnhMNEduSWxhR2xlWldVMlAzQnVyWWFPUHZzRHdrTzTSAWBBVV95cUxNbkt4X29lM2dqNWNQT0Y4bUlGTGtQcFFHVkVTaVlVaXZtYXhVcUZzdmZ1UHZxU3pnQVk5VG1LSTNIX2JBRk9DdTNDRkgzSHdnM2RGVDVPUGphMlZoQ1N0MGY?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 04 Sep 2026 02:33:14 GMT"
-    },
-    {
-      "category": "exchange-rate",
-      "categoryLabel": "환율",
-      "title": "환율 떨어지니 실적도 뚝?…증시 덮친 '원화 강세' 역풍",
-      "description": "news.einfomax.co.kr 보도",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMTFtUGYtV081ckF5cFk0Sno4S0ZReUlnT3dTeWZQZzduR2J3NnRtajJScnloMXo0ZTB3SjZLb1FBZFFkeWtRNlhFX1dCcHFkSlNMOFc0S1ZpRW5hU2UxejhXbGRuZnduVjB4dWNOTlg?oc=5",
-      "source": "news.einfomax.co.kr",
-      "pubDate": "Fri, 04 Sep 2026 01:35:00 GMT"
-    },
-    {
-      "category": "semiconductor",
-      "categoryLabel": "반도체",
-      "title": "김정관 산업부 장관 \"미국 반도체 관세, 한국에 불리하지 않게 논의\"",
-      "description": "YTN 보도",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xRk9lLWhuLVBzQWxfYjEtY3paemhnbHFZd3ZFTFZ3YUw4YzIwU0dDTDMzWFpfcC1odVdYcFZDMjFhUkZSZElqNTBYTU8yeHBhQkNJa2lKd3hnQW5jZWc?oc=5",
-      "source": "YTN",
-      "pubDate": "Fri, 04 Sep 2026 01:34:00 GMT"
-    },
-    {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "강남은 매물 20% 늘고, 9억씩 ‘뚝’…외곽은 불붙었다 [부동산360]",
-      "description": "v.daum.net 보도",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLRWhzZV9IbEZBd2J1MjFDenhVbnRScWFJbEZuMl9xckZ5Y29FYVNOQ0w4NUVsNERQcVBiQVgwa3lYRGVWd1ZkUC03WG9YcHM?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 04 Sep 2026 01:03:55 GMT"
     },
     {
       "category": "semiconductor",
@@ -464,29 +455,29 @@
     {
       "category": "interest-rate",
       "categoryLabel": "금리",
-      "title": "비트코인, 美 금리 인상 우려 완화에 급등... 3개월 만에 8만1000달러 돌파",
-      "description": "조선일보 보도",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdU9YUE90VXk4VkFiOXhUV2RsOWltTG9hQjVTWl82bUdZN2taX2xsMVUwaFpSSEZGRTM2V1Y5NjI5VTlGTm9mb2hKU1JWNEVUNV92ZjZfNFZpblpYVjZNaW8yWS1wY3ZOeXlHNkJOaWg1REtNcGlhX2lveVdzZm93RQ?oc=5",
-      "source": "조선일보",
-      "pubDate": "Fri, 04 Sep 2026 00:02:41 GMT"
+      "title": "'중동'·'금리'에 짓눌린 코스피...박스권 탈출할까?",
+      "description": "YTN 보도",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5cmJjamFmb0g2OTkwRzZTWk1mbEt1Ml96b001cUtOUzBET01ZZ1FpQm5rNkdtUjdBUW81N19zaWhmb3U5RmxuWHRYR2Y2ZlhnczE1VWxhMnAyaElnbUFwRGlPcFkyOFhRX05abFZXUQ?oc=5",
+      "source": "YTN",
+      "pubDate": "Fri, 04 Sep 2026 00:24:00 GMT"
     },
     {
-      "category": "realestate",
-      "categoryLabel": "부동산",
-      "title": "잠 못드는 집주인들...서울 부동산 ‘쇼크’",
-      "description": "한경매거진&북 보도",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SbDN3a2xGa0pRMWxXdHYxRXN3djZDWDExWXpVMmU5WkJLQ0doemFEeGhUb3h2YVlNai03SFo3bHBrZ3RJcGo1UjdtRjg2ZUlKYlEwMkU5aUswUWV1X0Rpcm56eGRkUmFnTzZjWg?oc=5",
-      "source": "한경매거진&북",
-      "pubDate": "Thu, 03 Sep 2026 23:31:00 GMT"
+      "category": "semiconductor",
+      "categoryLabel": "반도체",
+      "title": "김정관 “미 반도체 관세, ‘불리하지 않은 대우’ 원칙하에 논의”",
+      "description": "khan.co.kr 보도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43OVZqd09zcWRLd3VHUXdEdXJ5UTFoOFQ3dHNnVkZyMmpiNmF5WndkVUozMy1fWEtpTVMtOTFWVDhpN1h2REVyNFd1cjRPWWVMV1FFUDFEWkFDQdIBX0FVX3lxTFBHOU5jbGpzZ01jRHpvZTNpdDZ6RWZDQVduaXlhemRySTdtNEpzZTdOSjgyeGF1cFJpQTJZSkItOVF1LXNfT1V5V3MyN0Joem5yN2lJaGFYNFZIdG5ldDhB?oc=5",
+      "source": "khan.co.kr",
+      "pubDate": "Thu, 03 Sep 2026 21:36:00 GMT"
     },
     {
       "category": "ai",
       "categoryLabel": "AI",
-      "title": "IMF의 경고, 빚더미 위 세계 경제와 AI 전력 병목",
-      "description": "글로벌이코노믹 보도",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEdxSFJBZjFoUUdkYUNFRE55N29DQVFwajZGdnQxWnVlZ2hrTk85VmNHZjdNOFFqMkVlRzFoRG9sMGxlWUdiZnBCWDFRM0pfbzI0SjJxRkhpbzdURWJ0T2FTejJXeGM4ZTZmTlVtYnZQYzN5aVhWb3NoelZUXy04YlBoeEZIQnox?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "Thu, 03 Sep 2026 19:15:00 GMT"
+      "title": "[영상] 김동환 포티투마루 \"독자 AI 모델 확보, 산업 주권·경제 경쟁력 좌우\"",
+      "description": "지디넷코리아 보도",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RdTZ1YTJuVm83UEVIVEw5cnFrNElRY21oT2tyUWZlSHJodGdEWXZOZFZ5Zm5iMnducml2VGdzYzFWaWdjR0pxSW1EVmFjM2ZuUWRzai1n?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Thu, 03 Sep 2026 06:00:15 GMT"
     },
     {
       "category": "exchange-rate",
@@ -498,13 +489,31 @@
       "pubDate": "Thu, 03 Sep 2026 05:44:00 GMT"
     },
     {
+      "category": "ai",
+      "categoryLabel": "AI",
+      "title": "美 데이터센터 반발에 베센트 \"AI 업계가 제대로 소통 못해\" 비판",
+      "description": "더구루 보도",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oTTJZVlphUHVJalZqS3hIREh0aHM3bHFKUjB1a1pucWtfS29KZlRYMUp3MnlCdjFQMkZRRURwc1JFUTlIU1hVVThURFY3SXBGRnc4dGZ5eGFXaVIySkdoNjJzcw?oc=5",
+      "source": "더구루",
+      "pubDate": "Thu, 03 Sep 2026 04:54:13 GMT"
+    },
+    {
       "category": "exchange-rate",
       "categoryLabel": "환율",
-      "title": "韓 코인시장 기업·외국인에 열리면…달러 수요 환율로 번진다",
-      "description": "v.daum.net 보도",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhbzFsMFNudmhSelZZeDV2S19fMFNiMk9LU2FTRjZCczZWVmlFRVJQb3RoZXdTUUpvTTlRWUd4NkFqWFJpTHNwenB0UzRQck0?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 03 Sep 2026 03:02:00 GMT"
+      "title": "한은 “달러 스테이블 코인 거래 늘면...환율도 영향 받는다”",
+      "description": "서울경제 보도",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93TXZVLWFwdXVtZW5YMHYxODhUcFpGZzBSc0dHM3NEcmE4SVhzdzhqRHdRc2pieDNGWHNnLXV4Z1BId0IxQ09Ca0NUMWt5ZHBoZHfSAVNBVV95cUxNNndfRkNhS3RIREdzOG5nLVI1UUxkSHRoZ3RZRkJqckdMMWQwVGRZOHVsTU52WnRmdnZXNHhldnhGdXdjbmtXMVNPS2xlTzNXS1QyVQ?oc=5",
+      "source": "서울경제",
+      "pubDate": "Thu, 03 Sep 2026 04:24:01 GMT"
+    },
+    {
+      "category": "exchange-rate",
+      "categoryLabel": "환율",
+      "title": "달러 스테이블코인 수요 늘면 환율도 오른다…\"원화 국제화 필요\" - 머니투데이",
+      "description": "머니투데이 보도",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ydlpBM3BFOFBCdWhGNDJ3NG0yc014emt1eVVzLU9OTzRjTDlPay1LX1pRLW9wYkZyYkNsVXNzcHFSS0xSZ0VxQ2hmNUdmaWdLcXdXUDRpX29PQmtPT29SMldPMERMVW5IdklhZDB4NElERzhDMm9kR9IBfkFVX3lxTFA4R3FMTjJvM0VpYmFnU3ljVUhPYktFNVVnU0NXOGRuQ0p0SFh1ajJxUk9wcWhDZzd5ZkkxX205MEMteTI3WEs4ZzZOSm92WFFSa0JMeFpFWjR0eUNsamRFekF5SWR3eW1iYlcwcmVOTkJ0Sm1sWWhtN2FrRTM4Zw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "Thu, 03 Sep 2026 03:00:00 GMT"
     },
     {
       "category": "ai",
@@ -532,15 +541,6 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVMHFnNlRFeXBNbjBKbjRSS3h6eFA0SFpKdEcxMGUyUDNsZm4tWk9henhRcWdkdUtkRzZULTFMcHZSdU4xN2dtczg1NlZHWnd3UXUyekpLTQ?oc=5",
       "source": "KPI뉴스",
       "pubDate": "Thu, 03 Sep 2026 00:18:42 GMT"
-    },
-    {
-      "category": "interest-rate",
-      "categoryLabel": "금리",
-      "title": "누가 미국 금리와 전세계 유동성을 움직일까?",
-      "description": "한국경제 보도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MkhDTFhaZ2R5UGx4OXVaVHJvSVZYNlV6N3NCZmhWMEhQdmo5Uzk4bVhqQTZrR08yV21SbXNZdlh6R3VLeWNLdHhXNXBLQ1hpdDdMY05pX28xQQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     }
   ]
 }
